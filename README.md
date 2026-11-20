@@ -1,4 +1,4 @@
-# 🛒 BuySense
+# BuySense
 
 > **Smart Shopping Intelligence & Decision Support System**
 
